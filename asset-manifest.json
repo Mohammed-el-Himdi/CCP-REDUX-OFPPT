@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/CCP-OFPPT/static/js/main.bd8c6cf3.js",
+    "static/js/151.68c419ad.chunk.js": "/CCP-OFPPT/static/js/151.68c419ad.chunk.js",
+    "index.html": "/CCP-OFPPT/index.html",
+    "main.bd8c6cf3.js.map": "/CCP-OFPPT/static/js/main.bd8c6cf3.js.map",
+    "151.68c419ad.chunk.js.map": "/CCP-OFPPT/static/js/151.68c419ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bd8c6cf3.js"
+  ]
+}
